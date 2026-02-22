@@ -1,0 +1,16 @@
+{ 
+  "trait_types": [
+    {
+      "name": "Color",
+      "values": ["Red", "Green", "Blue"]
+    },
+    {
+      "name": "Size",
+      "values": ["Small", "Medium", "Large"]
+    },
+    {
+      "name": "Pattern",
+      "values": ["Striped", "Solid", "Dotted"]
+    }
+  ]
+}
